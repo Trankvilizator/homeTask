@@ -13,8 +13,8 @@ public class Exercise4 {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter an integer:");
         int n = in.nextInt();
-        System.out.println((n=n/10),s++);
-        System.out.println((n=n/10),s++);
-        System.out.println("the sum of the digits of n=",s);
+       // System.out.println((n=n/10),s++);
+       // System.out.println((n=n/10),s++);
+       // System.out.println("the sum of the digits of n=",s);
     }
 }

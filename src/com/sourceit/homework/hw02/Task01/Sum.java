@@ -21,6 +21,7 @@ public class Sum {
             n=n/10;
         }
         while (n>0);
+
         System.out.println("The sum of digits = "+i);
     }
 }
